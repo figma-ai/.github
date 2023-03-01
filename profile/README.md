@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" alt="Background=Black, Logo=White" src="https://user-images.githubusercontent.com/59159025/222264344-67e833d4-9eb1-465a-a4c0-677cef907169.png" style="border-radius: 10px;">
+  <img width="150" alt="Icon" src="https://user-images.githubusercontent.com/59159025/222266387-8e2963e4-abc4-4c5f-b3d2-6af8e05e0079.png">
 </p>
 
 # Figma AI
