@@ -32,4 +32,4 @@ We welcome contributions from the community to help improve the Figma AI platfor
 
 ## Contact
 
-If you have any questions or feedback, please feel free to reach out to us on our Github page or via email at augustoj311@gmail.com.
+If you have any questions or feedback, please feel free to reach out to us on our Github page or via email at contact@figmaai.io.
